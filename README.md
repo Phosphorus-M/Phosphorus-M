@@ -1,5 +1,5 @@
 <h2> Hello everyone, I'm Fernando Pastorelli! <img src="https://media.giphy.com/media/2m1WUiwkhg0zVFlw7d/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.imgur.com/XOCigOT.png" width="230">
+<img align='right' src="https://i.imgur.com/cFvUPwU.png" width="230">
 <p><em>Student in Computer Science degree at <a href="http://www.uno.edu.ar">Universidad Nacional del Oeste</a></br>Developer Consultant at <a href="https://grupoassa.com">gA</a>
 </em></p>
 
